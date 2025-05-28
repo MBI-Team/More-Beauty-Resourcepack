@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 43],
+			"translation": [0, 7.5, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -43],
+			"translation": [0, 7.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [16, 121, 0],
+			"translation": [0, 0, -0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-12, -87, 0],
+			"translation": [0, 0, -0.25]
+		}
+	}
+}
